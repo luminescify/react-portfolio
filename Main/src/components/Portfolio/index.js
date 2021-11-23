@@ -6,34 +6,34 @@ function Portfolio() {
   // Replace links with deployed projects and GitHub repos
   const [projects] = useState([
     {
-      name: 'surf-report',
-      description: 'MERN Stack',
-      link: "https://github.com",
-      repo: "https://github.com"
+      name: 'reel-cinema',
+      description: 'Reel Cinema',
+      link: "https://intense-lake-77911.herokuapp.com/",
+      repo: "https://github.com/AWSMProdigy/Theater-website"
     },
     {
-      name: 'pastel-puzzels',
-      description: 'MERN Stack',
-      link: "https://github.com",
-      repo: "https://github.com"
+      name: 'harry-potter-quiz-challenge',
+      description: 'Harry Potter Quiz Challenge',
+      link: "https://luminescify.github.io/code-quiz/",
+      repo: "https://github.com/luminescify/code-quiz"
     },
     {
-      name: 'run-buddy',
-      description: 'HTML/CSS',
-      link: "https://github.com",
-      repo: "https://github.com"
+      name: 'take-a-hike',
+      description: 'Take A Hike',
+      link: "https://faithelizagreen.github.io/take-a-hike/index.html",
+      repo: "https://github.com/faithelizagreen/take-a-hike"
     },
     {
-      name: 'led-wall',
-      description: 'Node/IoT',
-      link: "https://github.com",
-      repo: "https://github.com"
+      name: 'day-planner',
+      description: 'Day Planner',
+      link: "https://luminescify.github.io/day-planner/",
+      repo: "https://github.com/luminescify/day-planner"
     },
     {
-      name: 'calculator',
-      description: 'React/JavaScript/CSS',
-      link: "https://github.com",
-      repo: "https://github.com"
+      name: 'weather-dashboard',
+      description: 'Weather Dashboard',
+      link: "https://luminescify.github.io/weather-dashboard/",
+      repo: "https://github.com/luminescify/weather-dashboard"
     },
   ]);
 
