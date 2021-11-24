@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.a27f57b8.chunk.css",
+    "main.js": "/react-portfolio/static/js/main.e40a66be.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.e40a66be.chunk.js.map",
+    "runtime-main.js": "/react-portfolio/static/js/runtime-main.1d992053.js",
+    "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.1d992053.js.map",
+    "static/js/2.102548e6.chunk.js": "/react-portfolio/static/js/2.102548e6.chunk.js",
+    "static/js/2.102548e6.chunk.js.map": "/react-portfolio/static/js/2.102548e6.chunk.js.map",
+    "index.html": "/react-portfolio/index.html",
+    "precache-manifest.78348dc5fba31204a811e63481413259.js": "/react-portfolio/precache-manifest.78348dc5fba31204a811e63481413259.js",
+    "service-worker.js": "/react-portfolio/service-worker.js",
+    "static/css/main.a27f57b8.chunk.css.map": "/react-portfolio/static/css/main.a27f57b8.chunk.css.map",
+    "static/js/2.102548e6.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.102548e6.chunk.js.LICENSE.txt",
+    "static/media/cover-image.jpg": "/react-portfolio/static/media/cover-image.9ecd412b.jpg",
+    "static/media/day-planner.jpg": "/react-portfolio/static/media/day-planner.ddc08c6a.jpg",
+    "static/media/harry-potter-quiz-challenge.jpg": "/react-portfolio/static/media/harry-potter-quiz-challenge.46eb3d89.jpg",
+    "static/media/reel-cinema.jpg": "/react-portfolio/static/media/reel-cinema.db6a436e.jpg",
+    "static/media/take-a-hike.jpg": "/react-portfolio/static/media/take-a-hike.d8c428e7.jpg",
+    "static/media/weather-dashboard.jpg": "/react-portfolio/static/media/weather-dashboard.b639bf40.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1d992053.js",
+    "static/js/2.102548e6.chunk.js",
+    "static/css/main.a27f57b8.chunk.css",
+    "static/js/main.e40a66be.chunk.js"
+  ]
+}
