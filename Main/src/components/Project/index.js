@@ -14,8 +14,8 @@ function Project({ project }) {
       />
       <div className="project-text">
         <h3>
-          <a href={link}>{removeHyphensAndCapitalize(name)}</a>{' '}
-          <a href={repo}>
+          <a href={link} target="_blank">{removeHyphensAndCapitalize(name)}</a>{' '}
+          <a href={repo} target="_blank">
             <i className="fab fa-github"></i>
           </a>
         </h3>
