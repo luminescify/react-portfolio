@@ -8,10 +8,16 @@ function About() {
         <i className="fas fa-user-circle" style={{ fontSize: "96px" }}></i>
         </div>
         <p>
-        Helvetica put a bird on it church-key Blue Bottle banjo bespoke brunch Etsy authentic Marfa quinoa typewriter plaid direct trade small batch wayfarers bicycle rights cliche craft beer gastropub single-origin coffee Godard Carles you probably haven't heard of them irony pickled kitsch synth sriracha gentrify literally heirloom blog Truffaut paleo scenester
+          Hiya! I'm Leah. Welcome to my corner of the internet.
         </p>
         <p>
-        Echo Park sriracha Pinterest vegan biodiesel 90's irony iPhone Kickstarter Carles crucifix kitsch narwhal dreamcatcher pickled trust fund selvage art party letterpress Tumblr post-ironic kogi Thundercats Tonx Brooklyn Pitchfork Odd Future authentic normcore freegan leggings Schlitz chambray organic tousled retro fap squid street art church-key fashion axe Wes Anderson bespoke whatever gentrify banh mi you probably haven't heard of them American Apparel next level pug ugh.
+        I received my BFA in Graphic Design at DePaul University and graduated in June of 2019. I enjoy all aspects of design and am constantly looking for new ways to make beautiful things - the newest thing for me is studying full stack development.
+        </p>
+        <p>
+        When I'm not designing, you can find me loving on my pets at home, having a Harry Potter or Lord of the Rings marathon on my couch, or curled up with a good book.
+        </p>
+        <p>
+          Feel free to reach out on my contact page if you enjoy my work!
         </p>
       </div>
     </section>

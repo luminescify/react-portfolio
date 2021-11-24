@@ -8,8 +8,8 @@ main {
   --secondary: #31343D;
   --tertiary: #b12704;
   --light: #fafafa;
-  --dark: #799FBA;
-  --darker: #1F3B60;
+  --dark: #202020;
+  --darker: #000000;
   --alpha: rgba(255,255,255,.7);
   --error: rgb(228, 46, 1);
   --spacing-one: calc(1rem * 0.5);
@@ -33,9 +33,9 @@ body {
   line-height: 1.5;
   font-size: 18px;
   letter-spacing: 0.1em;
-  background: var(--darker);
+  background: var(--dark);
   color: var(--light);
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Poppins', sans-serif;
 }
 
 h1,
@@ -44,7 +44,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Aladin', cursive;
+  font-family: 'Poppins', sans-serif;
   font-weight: 500;
   margin: 5px 0;
   line-height: 1.25;
@@ -186,7 +186,7 @@ header img {
 
 nav {
   position: relative;
-  font-family: 'Aladin', cursive;
+  font-family: 'Poppins', sans-serif;
   font-size: 2.5rem;
   margin: 30px 20px;
 }
@@ -356,9 +356,9 @@ textarea {
 }
 
 .navActive {
-  color: var(--secondary);
+  color: rgba(65, 65, 65, 0)20;
   cursor: default;
-  text-shadow: 3px 3px 15px rgba(255,255,255, .5);
+  text-shadow: 3px 3px 15px rgba(255, 255, 255, 1.5);
 }
 @media only screen and (max-width: 1300px) {
   nav {
